@@ -1,0 +1,6 @@
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\bin\Debug\IdentifierApp.exe.config
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\bin\Debug\IdentifierApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\bin\Debug\IdentifierApp.pdb
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\obj\Debug\IdentifierApp.csprojResolveAssemblyReference.cache
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\obj\Debug\IdentifierApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\IdentifierApp\IdentifierApp\obj\Debug\IdentifierApp.pdb

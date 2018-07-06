@@ -1,0 +1,6 @@
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\bin\Debug\DelegateApp.exe.config
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\bin\Debug\DelegateApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\bin\Debug\DelegateApp.pdb
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csprojResolveAssemblyReference.cache
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\obj\Debug\DelegateApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\DelegateApp\DelegateApp\obj\Debug\DelegateApp.pdb

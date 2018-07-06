@@ -1,0 +1,6 @@
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\bin\Debug\ThreadApp.exe.config
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\bin\Debug\ThreadApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\bin\Debug\ThreadApp.pdb
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\obj\Debug\ThreadApp.csprojResolveAssemblyReference.cache
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\obj\Debug\ThreadApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\ThreadApp\ThreadApp\obj\Debug\ThreadApp.pdb

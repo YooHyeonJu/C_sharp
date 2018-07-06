@@ -1,0 +1,6 @@
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\bin\Debug\EventApp.exe.config
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\bin\Debug\EventApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\bin\Debug\EventApp.pdb
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\obj\Debug\EventApp.csprojResolveAssemblyReference.cache
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\obj\Debug\EventApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\EventApp\EventApp\obj\Debug\EventApp.pdb

@@ -1,0 +1,6 @@
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\bin\Debug\GenericClassApp.exe.config
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\bin\Debug\GenericClassApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\bin\Debug\GenericClassApp.pdb
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\obj\Debug\GenericClassApp.csprojResolveAssemblyReference.cache
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\obj\Debug\GenericClassApp.exe
+c:\users\yhj80\documents\visual studio 2017\Projects\GenericClassApp\GenericClassApp\obj\Debug\GenericClassApp.pdb
